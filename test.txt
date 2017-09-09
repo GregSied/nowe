@@ -1,2 +1,5 @@
+dada
+:wq
+ewqeqwe
 nowy plik repo`
 drugi
